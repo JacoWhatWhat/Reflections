@@ -7,3 +7,6 @@ What value do you think it offers?
 
 How can you use the staging area to make sure you have one commit per logical change?
 	By using the diff --status command
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+	Merging adds branches to the master so as to incorporate the commits once the branch is no longer required
