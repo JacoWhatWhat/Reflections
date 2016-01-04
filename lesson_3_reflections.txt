@@ -1,2 +1,5 @@
 When would you want to use a remote repository rather than keeping all your work local?
-  If you work from multiple workspaces it ensures easy and uniform access on all platforms.
+  If you work from multiple workspaces it ensures easy and uniform access to all updated versions on all platforms.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+	To be able to choose when to commit so what is committed makes sense to you and can incorporate logical changes.
